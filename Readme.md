@@ -1,4 +1,4 @@
-# UFS Adv Auto Filter Bot V3
+# movie_sender_3_Rbot
 
 <p align="center">
   <a href="https://github.com/jinspalakkattu/UFS-Adv-Auto-Filter-Bot-V3/stargazers">
@@ -6,7 +6,7 @@
 
   </a>
   
-  <a href="https://github.com/jinspalakkattu/UFS-Adv-Auto-Filter-Bot-V3/fork">
+  <a href="https://github.com/arjunsangu/movie_sender_3_Rbot">
     <img src="https://img.shields.io/github/forks/jinspalakkattu/UFS-Adv-Auto-Filter-Bot-V3?label=Fork&style=social">
 
   </a>  
