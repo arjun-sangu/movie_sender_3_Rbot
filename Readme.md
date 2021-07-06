@@ -19,10 +19,7 @@ __Just Sent Any Text As Query It Will Search For All Connected Chat's Files In I
 
 ## Usage
 
-**__How To Use Me!?__**
-
-* -> Add me to any group and make me admin<br>
-* -> Add me to your channel as admin with full previlages
+വെറുതെ കുത്തിയിരുന്ന് നോക്കണ്ട എന്നെ എൻ്റെ ഗ്രൂപ്പിൽമാത്രേ ഉപയോഗിക്കാൻ പറ്റൂ 😝
 
 **Bot Commands (Works Only In Groups) :**
 
